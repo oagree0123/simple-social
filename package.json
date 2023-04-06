@@ -1,6 +1,6 @@
 {
   "name": "simple-social",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "express social login module",
   "main": "dist/index.js",
   "scripts": {
