@@ -1,5 +1,7 @@
 # simple-social
 nodejs express 기반 소셜로그인
+<br />
+Blog. [패키지 개발기](https://velog.io/@oagree0123/nodejs-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%BB%A8%EC%85%89-%EC%A0%95%ED%95%98%EA%B8%B0)
 
 ## install
 
